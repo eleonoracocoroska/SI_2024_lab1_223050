@@ -107,4 +107,9 @@ git push -u --force origin bug2(потребно е --force за да е усп�
 
 27.git push -u --force origin bug2
 
-28.
+28.nano logs.txt
+git add logs.txt
+ git add 223050.txt
+ git commit -m "Final commit"
+
+29.git push origin master
